@@ -1,1 +1,56 @@
-project2/data/
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyTorch / ML Models
+*.pth
+*.pt
+*.bin
+*.h5
+*.onnx
+*.safetensors
+
+# Data files
+*.csv
+*.tsv
+
+# Logs
+*.log
+logs/
+
+# Secrets & Credentials
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Git LFS
+.gitattributes
