@@ -54,3 +54,5 @@ secrets.json
 
 # Git LFS
 .gitattributes
+
+.DS_Store
